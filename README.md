@@ -1,9 +1,3 @@
-# GitHub Profile README Draft
-# This file goes in the repo: maheshmirchandani/maheshmirchandani
-# as README.md — it renders on your GitHub profile page at https://github.com/maheshmirchandani
-
----
-
 ## Hi, I'm Mahesh Mirchandani
 
 **AI Product Builder | MCP Platforms, LLM Integration, Enterprise Background**
